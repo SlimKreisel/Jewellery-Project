@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Necklace
+comment0.text=2\tCreate\ Subclass\ Necklace
+comment1.params=
+comment1.target=Necklace()
+comment1.text=2.1\tCreate\ standard\ operations.
+comment10.params=
+comment10.target=java.lang.String\ toString()
+comment2.params=price\ quantity\ name\ brand\ colour\ measure_clarity\ shapeOfNeck\ typeOfNeck\ sizeOfNeck
+comment2.target=Necklace(double,\ int,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ boolean,\ java.lang.String,\ java.lang.String,\ double)
+comment3.params=price\ quantity\ name\ brand\ colour\ shapeOfNeck\ typeOfNeck\ sizeOfNeck
+comment3.target=Necklace(double,\ int,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ double)
+comment4.params=
+comment4.target=java.lang.String\ getShapeOfNeck()
+comment5.params=
+comment5.target=java.lang.String\ getTypeOfNeck()
+comment6.params=
+comment6.target=double\ getSizeOfNeck()
+comment7.params=shapeOfNeck
+comment7.target=void\ setShapeOfNeck(java.lang.String)
+comment8.params=typeOfNeck
+comment8.target=void\ setTypeOfNeck(java.lang.String)
+comment9.params=sizeOfNeck
+comment9.target=void\ setSizeOfNeck(double)
+numComments=11

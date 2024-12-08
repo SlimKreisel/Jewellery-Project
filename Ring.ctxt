@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Ring
+comment0.text=3\tCreate\ Subclass\ Ring
+comment1.params=
+comment1.target=Ring()
+comment1.text=3.1\tCreate\ standard\ operations.
+comment10.params=
+comment10.target=java.lang.String\ toString()
+comment2.params=price\ quantity\ name\ brand\ colour\ measure_clarity\ shapeOfRing\ typeOfRing\ sizeOfRing
+comment2.target=Ring(double,\ int,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ boolean,\ java.lang.String,\ java.lang.String,\ double)
+comment3.params=price\ quantity\ name\ brand\ colour\ shapeOfRing\ typeOfRing\ sizeOfRing
+comment3.target=Ring(double,\ int,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ double)
+comment4.params=
+comment4.target=java.lang.String\ getShapeOfRing()
+comment5.params=
+comment5.target=java.lang.String\ getTypeOfRing()
+comment6.params=
+comment6.target=double\ getSizeOfRing()
+comment7.params=shapeOfRing
+comment7.target=void\ setShapeOfRing(java.lang.String)
+comment8.params=typeOfRing
+comment8.target=void\ setTypeOfRing(java.lang.String)
+comment9.params=sizeOfRing
+comment9.target=void\ setSizeOfRing(double)
+numComments=11

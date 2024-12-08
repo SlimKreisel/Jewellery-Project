@@ -1,0 +1,35 @@
+#BlueJ class context
+comment0.target=Jewellery
+comment0.text=1.\tCreate\ Superclass\ Jewellery.
+comment1.params=
+comment1.target=Jewellery()
+comment10.params=price
+comment10.target=void\ setPrice(double)
+comment11.params=quantity
+comment11.target=void\ setQuantity(int)
+comment12.params=name
+comment12.target=void\ setName(java.lang.String)
+comment13.params=brand
+comment13.target=void\ setBrand(java.lang.String)
+comment14.params=colour
+comment14.target=void\ setColour(java.lang.String)
+comment15.params=
+comment15.target=java.lang.String\ toString()
+comment15.text=public\ void\ stock()\r\n\ \ \ \ {\r\n\ \ \ \ \ \ \ \ if(quantity\=\=0)\r\n\ \ \ \ \ \ \ \ {\r\n\ \ \ \ \ \ \ \ \ \ \ \ \r\n\ \ \ \ \ \ \ \ \ \ \ \ System.out.println("Sorry\ there\ is\ no\ more\ stocks\ left\ from\ that\ particular\ item");\r\n\ \ \ \ \ \ \ \ }\r\n\ \ \ \ \ \ \ \ else\r\n\ \ \ \ \ \ \ \ {\r\n\ \ \ \ \ \ \ \ \ \ \ \ \r\n\ \ \ \ \ \ \ \ \ \ \ \ System.out.println("Your\ items/'s\ is\ successfully\ bought");\r\n\ \ \ \ \ \ \ \ }\r\n}
+comment2.params=price\ quantity\ name\ brand\ colour
+comment2.target=Jewellery(double,\ int,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment3.params=price\ quantity\ name\ brand\ colour\ measure_clarity
+comment3.target=Jewellery(double,\ int,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ boolean)
+comment4.params=
+comment4.target=double\ getPrice()
+comment5.params=
+comment5.target=int\ getQuantity()
+comment6.params=
+comment6.target=java.lang.String\ getName()
+comment7.params=
+comment7.target=java.lang.String\ getBrand()
+comment8.params=
+comment8.target=java.lang.String\ getColour()
+comment9.params=
+comment9.target=boolean\ getMeasure()
+numComments=16
